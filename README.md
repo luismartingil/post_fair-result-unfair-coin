@@ -5,7 +5,6 @@
 - Website: www.luismartingil.com
 - Year: 2013
 
-+ Please check [this post](http://www.luismartingil.com/blog/puzzle/2013/11/20/puzzle-unfair-coin.html)
 + Demonstrates de puzzle solution using matplotlib to generate the graphics and back my interpretation/solution.
 
 # Problem
